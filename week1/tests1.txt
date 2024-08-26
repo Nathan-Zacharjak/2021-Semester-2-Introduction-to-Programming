@@ -1,0 +1,4 @@
+Inputs                  Expected output     Observed Output
+1,1,1                   1                   1
+0,2,3                   0                   0
+word, words, hello      error               error

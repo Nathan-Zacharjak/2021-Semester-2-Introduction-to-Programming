@@ -1,0 +1,3 @@
+Input							Expected Output		Actual Output
+Count: 0 Temps: 0				<no output>			<no output>
+Count: 2	Temps: -2.24 4.76	4.8	-2.2			4.8	-2.2

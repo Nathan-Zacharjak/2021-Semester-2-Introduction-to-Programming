@@ -1,0 +1,14 @@
+Input		Expected output														
+ten			invalid input
+Actual output
+invalid input
+
+Input		Expected output														
+-12			invalid input
+Actual output
+invalid input
+
+Input		Expected output														
+136			Your level of educational attainment is Tertiary level education.
+Actual output
+Your level of educational attainment is Tertiary level education.

@@ -1,0 +1,4 @@
+input					expected output							actual output
+-1						Max: 0 Min: 150 Ave: 0					Max: 0 Min: 150 Ave: 0
+10 152					Please enter an age between 0 and 150.	Please enter an age between 0 and 150.	
+1.5						Please enter an integer					Please enter an integer

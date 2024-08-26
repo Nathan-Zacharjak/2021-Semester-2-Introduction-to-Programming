@@ -1,0 +1,2 @@
+Expected Maximum    Minimum     Avergae
+50                  5           27.5

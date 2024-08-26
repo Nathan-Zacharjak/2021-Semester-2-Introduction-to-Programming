@@ -1,0 +1,9 @@
+Input					Expected output
+John Smith 42 0.2		Your name is John Smith, you are 42 years old and your employment fraction is 0.2
+Actual output
+Your name is John Smith, you are 42 years old and your employment fraction is 0.2.
+
+Input					Expected output
+J A 21 0		Your name is J A, you are 21 years old and your employment fraction is 0.0
+Actual output
+Your name is J A, you are 21 years old and your employment fraction is 0.0.

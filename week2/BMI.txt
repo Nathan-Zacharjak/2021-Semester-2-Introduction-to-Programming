@@ -1,0 +1,8 @@
+Input                   Expected output     Observed output
+Weight      Height
+60          1.72        20.28               Your BMI is: 20.28
+0           2           0                   Your BMI is: 0.00
+75          0           Inf                 Your BMI is: Inf
+(nothing)   (nothing)   error               Your BMI is: 
+fifty       one         error               error
+(nothing)   1.6         error               Your BMI is: 

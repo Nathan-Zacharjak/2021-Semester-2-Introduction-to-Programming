@@ -1,0 +1,3 @@
+Input						Expected Output			Actual Output
+JOHN,SMITH					JOHN,SMITH				JOHN,SMITH
+My,NaM,,E					MY,NAM,,E				MY,NAM,,E

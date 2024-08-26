@@ -1,0 +1,6 @@
+Input		Expected output								Actual output
+-12345		Value entered is not 3 digits.				Value entered is not 3 digits.
+
+234			4											4
+			3											3
+			2											2

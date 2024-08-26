@@ -1,0 +1,6 @@
+Inputs			Expected output			Actual output
+-4 -2 0 2 4		<no output>				<no output>
+				-4 -2 0 2 4				-4 -2 0 2 4
+
+3.2				3						3
+				<no output>				<no output>

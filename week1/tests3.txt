@@ -1,0 +1,8 @@
+(Calculation Test)
+Input       Expected Outcome        Observed Outcome
+400000      75                      75
+(Full code)
+1,300,000   92.1234                 92.1234
+0           Error/infinity          Inf
+2           5.9880e+05              59880239.521
+-2          -59880239.521           -59880239.521

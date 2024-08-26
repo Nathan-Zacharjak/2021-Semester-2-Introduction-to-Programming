@@ -1,0 +1,5 @@
+Input                       Expected Output             Observed Output
+149, 180, 120, 139, 197     149, 180, 120, 139, 197     149, 180, 120, 139, 197
+0, 0, 0, 0, 0               0, 0, 0, 0, 0               0, 0, 0, 0, 0
+five, four, three, two, one error                       error
+(nothing)                   error                       error

@@ -1,0 +1,22 @@
+Input           Expected Result
+[-10:0.5:10]    B: In the shape of a cubic, a
+                reverse 's' shape that
+                intersects the x and y axis at
+                (0,0)
+
+                C: An exponential shape, starts
+                off flat, reaches 1 on the y-axis
+                then shoots upwards quickly
+
+[-100:0.5:100]  B and C will appear on top of each
+                other as the graph is now much more 
+                'zoomed out' on the x-axis. 
+                On the left of y=0 B and C will appear
+                as near-straight lines
+
+[-10:5:10]      There will only be 5 points on the
+                x-axis, so the graphs of B and C will
+                appear more like polygon shapes.
+                The graph will appear more like a
+                scatter plot, but with similar shape
+                to using the range [-10:0.5:10]
